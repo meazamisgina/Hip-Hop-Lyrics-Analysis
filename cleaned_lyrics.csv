@@ -1,0 +1,247 @@
+artist,song,lyrics,cleaned_lyrics,tokens,tokens_no_stop
+Drake,God's plan,"
+
+Yeah, they wishin' and wishin' and wishin' on me, yeah
+I been movin' calm, don't start no trouble with me
+Tryna keep it peaceful is a struggle for me
+Don't pull up at 6 AM to cuddle with me
+You know how I like it when you lovin' on me
+I don't wanna die for them to miss me
+Yes, I see the things that they wishin' on me
+Hope I got some brothers that outlive me
+They gon' tell the story, shit was different with me
+Chorus
+God's plan, God's plan
+I hold back, sometimes I won't, yuh
+I feel good, sometimes I don't, ayy, don't
+I finessed down Weston Road, ayy, 'nessed
+Might go down a G.O.D., yeah, wait
+I go hard on Southside G, yuh, wait
+I make sure that north-side eat
+And still
+
+Bad things
+It's a lot of bad things
+That they wishin' and wishin' and ' and wishin'
+They wishin' on me, yuh, ayy, ayy
+Bad things
+It's a lot of bad things
+That they  and wishin' and wishin'
+They wishin' on me, yuh, yuh
+Verse 1
+She say, ""Do you love me?"" I tell her, ""Only partly""
+I only love my bed and my mama, I'm sorry
+Fifty Dub, I even got it tatted on me
+81, they'll bring the crashers to the party
+And you know me
+Turn the O2 into the O3, dog
+Without 40, Oli, there'd be no me
+'Magine if I never met the broskis
+
+God's plan, God's plan
+I can't do this on my own, ayy, no, ayy
+Someone watchin' this shit close, yep, close
+I been me since Scarlett Road, ayy, road, ayy
+Might go down as G.O.D., yeah, wait
+I go hard on Southside G, ayy, wait
+I make sure that north-side eat, yuh
+And still
+
+Bad things
+It's a lot of bad things
+That they wishin' and wishin' and wishin' and wishin'
+They wishin' on me, yeah, yeah
+Bad things
+It's a lot of bad things
+That they wishin' and wishin' and wishin' and wishin'
+They wishin' on me, yeah
+Verse 2
+I don't really do this for the fame, no
+I don't really do this for the game, no
+I just do this so my mama don't work the same, no
+I just do this so my brothers don't feel the pain, no
+And you know me
+OVO, we turn up in the six, yeah
+Took a couple M's and I flipped, yeah
+Now I'm dodgin' all the tricks, yeah
+Chorus
+God's plan, God's plan
+I hold back, sometimes I won't, yuh
+I feel good, sometimes I don't, ayy, don't
+I finessed down Weston Road, ayy, 'nessed
+Might go down a G.O.D., yeah, wait
+I go hard on Southside G, yuh, wait
+I make sure that north-side eat
+And still
+Post-Chorus
+Bad things
+It's a lot of bad things
+That they wishin' and wishin' and wishin' and wishin'
+They wishin' on me, yuh, ayy, ayy
+Bad things
+It's a lot of bad things
+That they wishin' and wishin' and wishin' and wishin'
+They wishin' on me, yuh, yuh
+Outro
+They wishin' and wishin' and wishin' on me, yeah
+",yeah they wishin and wishin and wishin on me yeah i been movin calm dont start no trouble with me tryna keep it peaceful is a struggle for me dont pull up at am to cuddle with me you know how i like it when you lovin on me i dont wanna die for them to miss me yes i see the things that they wishin on me hope i got some brothers that outlive me they gon tell the story shit was different with me chorus gods plan gods plan i hold back sometimes i wont yuh i feel good sometimes i dont ayy dont i finessed down weston road ayy nessed might go down a god yeah wait i go hard on southside g yuh wait i make sure that northside eat and still bad things its a lot of bad things that they wishin and wishin and and wishin they wishin on me yuh ayy ayy bad things its a lot of bad things that they and wishin and wishin they wishin on me yuh yuh verse she say do you love me i tell her only partly i only love my bed and my mama im sorry fifty dub i even got it tatted on me theyll bring the crashers to the party and you know me turn the o into the o dog without oli thered be no me magine if i never met the broskis gods plan gods plan i cant do this on my own ayy no ayy someone watchin this shit close yep close i been me since scarlett road ayy road ayy might go down as god yeah wait i go hard on southside g ayy wait i make sure that northside eat yuh and still bad things its a lot of bad things that they wishin and wishin and wishin and wishin they wishin on me yeah yeah bad things its a lot of bad things that they wishin and wishin and wishin and wishin they wishin on me yeah verse i dont really do this for the fame no i dont really do this for the game no i just do this so my mama dont work the same no i just do this so my brothers dont feel the pain no and you know me ovo we turn up in the six yeah took a couple ms and i flipped yeah now im dodgin all the tricks yeah chorus gods plan gods plan i hold back sometimes i wont yuh i feel good sometimes i dont ayy dont i finessed down weston road ayy nessed might go down a god yeah wait i go hard on southside g yuh wait i make sure that northside eat and still postchorus bad things its a lot of bad things that they wishin and wishin and wishin and wishin they wishin on me yuh ayy ayy bad things its a lot of bad things that they wishin and wishin and wishin and wishin they wishin on me yuh yuh outro they wishin and wishin and wishin on me yeah,"['yeah', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'on', 'me', 'yeah', 'i', 'been', 'movin', 'calm', 'dont', 'start', 'no', 'trouble', 'with', 'me', 'tryna', 'keep', 'it', 'peaceful', 'is', 'a', 'struggle', 'for', 'me', 'dont', 'pull', 'up', 'at', 'am', 'to', 'cuddle', 'with', 'me', 'you', 'know', 'how', 'i', 'like', 'it', 'when', 'you', 'lovin', 'on', 'me', 'i', 'dont', 'wan', 'na', 'die', 'for', 'them', 'to', 'miss', 'me', 'yes', 'i', 'see', 'the', 'things', 'that', 'they', 'wishin', 'on', 'me', 'hope', 'i', 'got', 'some', 'brothers', 'that', 'outlive', 'me', 'they', 'gon', 'tell', 'the', 'story', 'shit', 'was', 'different', 'with', 'me', 'chorus', 'gods', 'plan', 'gods', 'plan', 'i', 'hold', 'back', 'sometimes', 'i', 'wont', 'yuh', 'i', 'feel', 'good', 'sometimes', 'i', 'dont', 'ayy', 'dont', 'i', 'finessed', 'down', 'weston', 'road', 'ayy', 'nessed', 'might', 'go', 'down', 'a', 'god', 'yeah', 'wait', 'i', 'go', 'hard', 'on', 'southside', 'g', 'yuh', 'wait', 'i', 'make', 'sure', 'that', 'northside', 'eat', 'and', 'still', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'wishin', 'and', 'wishin', 'and', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yuh', 'ayy', 'ayy', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'and', 'wishin', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yuh', 'yuh', 'verse', 'she', 'say', 'do', 'you', 'love', 'me', 'i', 'tell', 'her', 'only', 'partly', 'i', 'only', 'love', 'my', 'bed', 'and', 'my', 'mama', 'im', 'sorry', 'fifty', 'dub', 'i', 'even', 'got', 'it', 'tatted', 'on', 'me', 'theyll', 'bring', 'the', 'crashers', 'to', 'the', 'party', 'and', 'you', 'know', 'me', 'turn', 'the', 'o', 'into', 'the', 'o', 'dog', 'without', 'oli', 'thered', 'be', 'no', 'me', 'magine', 'if', 'i', 'never', 'met', 'the', 'broskis', 'gods', 'plan', 'gods', 'plan', 'i', 'cant', 'do', 'this', 'on', 'my', 'own', 'ayy', 'no', 'ayy', 'someone', 'watchin', 'this', 'shit', 'close', 'yep', 'close', 'i', 'been', 'me', 'since', 'scarlett', 'road', 'ayy', 'road', 'ayy', 'might', 'go', 'down', 'as', 'god', 'yeah', 'wait', 'i', 'go', 'hard', 'on', 'southside', 'g', 'ayy', 'wait', 'i', 'make', 'sure', 'that', 'northside', 'eat', 'yuh', 'and', 'still', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yeah', 'yeah', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yeah', 'verse', 'i', 'dont', 'really', 'do', 'this', 'for', 'the', 'fame', 'no', 'i', 'dont', 'really', 'do', 'this', 'for', 'the', 'game', 'no', 'i', 'just', 'do', 'this', 'so', 'my', 'mama', 'dont', 'work', 'the', 'same', 'no', 'i', 'just', 'do', 'this', 'so', 'my', 'brothers', 'dont', 'feel', 'the', 'pain', 'no', 'and', 'you', 'know', 'me', 'ovo', 'we', 'turn', 'up', 'in', 'the', 'six', 'yeah', 'took', 'a', 'couple', 'ms', 'and', 'i', 'flipped', 'yeah', 'now', 'im', 'dodgin', 'all', 'the', 'tricks', 'yeah', 'chorus', 'gods', 'plan', 'gods', 'plan', 'i', 'hold', 'back', 'sometimes', 'i', 'wont', 'yuh', 'i', 'feel', 'good', 'sometimes', 'i', 'dont', 'ayy', 'dont', 'i', 'finessed', 'down', 'weston', 'road', 'ayy', 'nessed', 'might', 'go', 'down', 'a', 'god', 'yeah', 'wait', 'i', 'go', 'hard', 'on', 'southside', 'g', 'yuh', 'wait', 'i', 'make', 'sure', 'that', 'northside', 'eat', 'and', 'still', 'postchorus', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yuh', 'ayy', 'ayy', 'bad', 'things', 'its', 'a', 'lot', 'of', 'bad', 'things', 'that', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'and', 'wishin', 'they', 'wishin', 'on', 'me', 'yuh', 'yuh', 'outro', 'they', 'wishin', 'and', 'wishin', 'and', 'wishin', 'on', 'me', 'yeah']","['yeah', 'wishin', 'wishin', 'wishin', 'yeah', 'movin', 'calm', 'dont', 'start', 'trouble', 'tryna', 'keep', 'peaceful', 'struggle', 'dont', 'pull', 'cuddle', 'know', 'like', 'lovin', 'dont', 'wan', 'na', 'die', 'miss', 'yes', 'see', 'things', 'wishin', 'hope', 'got', 'brothers', 'outlive', 'gon', 'tell', 'story', 'shit', 'different', 'chorus', 'gods', 'plan', 'gods', 'plan', 'hold', 'back', 'sometimes', 'wont', 'yuh', 'feel', 'good', 'sometimes', 'dont', 'ayy', 'dont', 'finessed', 'weston', 'road', 'ayy', 'nessed', 'might', 'go', 'god', 'yeah', 'wait', 'go', 'hard', 'southside', 'g', 'yuh', 'wait', 'make', 'sure', 'northside', 'eat', 'still', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'wishin', 'yuh', 'ayy', 'ayy', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'yuh', 'yuh', 'verse', 'say', 'love', 'tell', 'partly', 'love', 'bed', 'mama', 'im', 'sorry', 'fifty', 'dub', 'even', 'got', 'tatted', 'theyll', 'bring', 'crashers', 'party', 'know', 'turn', 'dog', 'without', 'oli', 'thered', 'magine', 'never', 'met', 'broskis', 'gods', 'plan', 'gods', 'plan', 'cant', 'ayy', 'ayy', 'someone', 'watchin', 'shit', 'close', 'yep', 'close', 'since', 'scarlett', 'road', 'ayy', 'road', 'ayy', 'might', 'go', 'god', 'yeah', 'wait', 'go', 'hard', 'southside', 'g', 'ayy', 'wait', 'make', 'sure', 'northside', 'eat', 'yuh', 'still', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'wishin', 'wishin', 'yeah', 'yeah', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'wishin', 'wishin', 'yeah', 'verse', 'dont', 'really', 'fame', 'dont', 'really', 'game', 'mama', 'dont', 'work', 'brothers', 'dont', 'feel', 'pain', 'know', 'ovo', 'turn', 'six', 'yeah', 'took', 'couple', 'ms', 'flipped', 'yeah', 'im', 'dodgin', 'tricks', 'yeah', 'chorus', 'gods', 'plan', 'gods', 'plan', 'hold', 'back', 'sometimes', 'wont', 'yuh', 'feel', 'good', 'sometimes', 'dont', 'ayy', 'dont', 'finessed', 'weston', 'road', 'ayy', 'nessed', 'might', 'go', 'god', 'yeah', 'wait', 'go', 'hard', 'southside', 'g', 'yuh', 'wait', 'make', 'sure', 'northside', 'eat', 'still', 'postchorus', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'wishin', 'wishin', 'yuh', 'ayy', 'ayy', 'bad', 'things', 'lot', 'bad', 'things', 'wishin', 'wishin', 'wishin', 'wishin', 'wishin', 'yuh', 'yuh', 'outro', 'wishin', 'wishin', 'wishin', 'yeah']"
+Bruno Mars & Lil Wayne,Mirror,"
+
+Uh
+With everything happenin' today
+You don't know whether you're comin' or goin'
+But you think that you're on your way
+Life lined up on the mirror, don't blow it, woo
+Look at me when I'm talkin' to you
+You lookin' at me, but I'm lookin' through you
+I see the blood in your eyes
+I see the love in disguise
+I see the pain hidden in your pride
+I see you're not satisfied
+And I don't see nobody else
+I see myself, I'm lookin' at the—
+Chorus (Bruno Mars)
+Mirror on the wall (Ooh)
+Here we are again (Yeah)
+Through my rise and fall (Uh)
+You've been my only friend (Yeah)
+You told me that they can understand the man I am
+So why are we here talkin' to each other again?
+Verse 1 (Lil Wayne)
+Uh, I see the truth in your lies
+I see nobody by your side
+But I'm with you when you're all alone
+And you correct me when I'm lookin' wrong
+I see the guilt beneath the shame
+I see your soul through your windowpane
+I see the scars that remain
+I see you, Wayne, I'm lookin' at the—
+
+Mirror on the wall (Ooh)
+Here we are again (Yeah)
+Through my rise and fall (Uh-huh)
+You've been my only friend (My only friend)
+You told me that they can understand the man I am (They can understand)
+So why are we here (Misunderstood) talkin' to each other again?
+
+Lookin' at me now, I can see my past
+Damn, I look just like my fuckin' dad
+Light it up, that's smoke and mirrors
+I even look good in the broken mirror
+I see my mama smile, that's a blessin'
+I see the change, I see the message
+And no message coulda been any clearer
+So I'm startin' with the man in the—
+
+Mirror on the wall (MJ taught me that)
+Here we are again
+Through my rise and fall (Uh)
+You've been my only friend (Take 'em to Mars, man)
+You told me that they can understand the man I am
+So why are we talkin' to each other again?
+Bridge (Bruno Mars)
+Uh, mirror on the wall (Mirror, mirror on the wall)
+Here we are again (Ooh)
+Through my rise and fall
+You've been my only friend (Ooh)
+You told me that they can (Ooh) understand the man I am (Understand the man I am)
+So why are we here (Ooh) talkin' to each other again? (Lookin' at me now)
+Outro (Bruno Mars & Lil Wayne)
+Mirror on the wall
+(Yeah, ooh)
+So why are we talkin' to each other again?
+(Yeah, mirror)
+",uh with everything happenin today you dont know whether youre comin or goin but you think that youre on your way life lined up on the mirror dont blow it woo look at me when im talkin to you you lookin at me but im lookin through you i see the blood in your eyes i see the love in disguise i see the pain hidden in your pride i see youre not satisfied and i dont see nobody else i see myself im lookin at the chorus bruno mars mirror on the wall ooh here we are again yeah through my rise and fall uh youve been my only friend yeah you told me that they can understand the man i am so why are we here talkin to each other again verse lil wayne uh i see the truth in your lies i see nobody by your side but im with you when youre all alone and you correct me when im lookin wrong i see the guilt beneath the shame i see your soul through your windowpane i see the scars that remain i see you wayne im lookin at the mirror on the wall ooh here we are again yeah through my rise and fall uhhuh youve been my only friend my only friend you told me that they can understand the man i am they can understand so why are we here misunderstood talkin to each other again lookin at me now i can see my past damn i look just like my fuckin dad light it up thats smoke and mirrors i even look good in the broken mirror i see my mama smile thats a blessin i see the change i see the message and no message coulda been any clearer so im startin with the man in the mirror on the wall mj taught me that here we are again through my rise and fall uh youve been my only friend take em to mars man you told me that they can understand the man i am so why are we talkin to each other again bridge bruno mars uh mirror on the wall mirror mirror on the wall here we are again ooh through my rise and fall youve been my only friend ooh you told me that they can ooh understand the man i am understand the man i am so why are we here ooh talkin to each other again lookin at me now outro bruno mars lil wayne mirror on the wall yeah ooh so why are we talkin to each other again yeah mirror,"['uh', 'with', 'everything', 'happenin', 'today', 'you', 'dont', 'know', 'whether', 'youre', 'comin', 'or', 'goin', 'but', 'you', 'think', 'that', 'youre', 'on', 'your', 'way', 'life', 'lined', 'up', 'on', 'the', 'mirror', 'dont', 'blow', 'it', 'woo', 'look', 'at', 'me', 'when', 'im', 'talkin', 'to', 'you', 'you', 'lookin', 'at', 'me', 'but', 'im', 'lookin', 'through', 'you', 'i', 'see', 'the', 'blood', 'in', 'your', 'eyes', 'i', 'see', 'the', 'love', 'in', 'disguise', 'i', 'see', 'the', 'pain', 'hidden', 'in', 'your', 'pride', 'i', 'see', 'youre', 'not', 'satisfied', 'and', 'i', 'dont', 'see', 'nobody', 'else', 'i', 'see', 'myself', 'im', 'lookin', 'at', 'the', 'chorus', 'bruno', 'mars', 'mirror', 'on', 'the', 'wall', 'ooh', 'here', 'we', 'are', 'again', 'yeah', 'through', 'my', 'rise', 'and', 'fall', 'uh', 'youve', 'been', 'my', 'only', 'friend', 'yeah', 'you', 'told', 'me', 'that', 'they', 'can', 'understand', 'the', 'man', 'i', 'am', 'so', 'why', 'are', 'we', 'here', 'talkin', 'to', 'each', 'other', 'again', 'verse', 'lil', 'wayne', 'uh', 'i', 'see', 'the', 'truth', 'in', 'your', 'lies', 'i', 'see', 'nobody', 'by', 'your', 'side', 'but', 'im', 'with', 'you', 'when', 'youre', 'all', 'alone', 'and', 'you', 'correct', 'me', 'when', 'im', 'lookin', 'wrong', 'i', 'see', 'the', 'guilt', 'beneath', 'the', 'shame', 'i', 'see', 'your', 'soul', 'through', 'your', 'windowpane', 'i', 'see', 'the', 'scars', 'that', 'remain', 'i', 'see', 'you', 'wayne', 'im', 'lookin', 'at', 'the', 'mirror', 'on', 'the', 'wall', 'ooh', 'here', 'we', 'are', 'again', 'yeah', 'through', 'my', 'rise', 'and', 'fall', 'uhhuh', 'youve', 'been', 'my', 'only', 'friend', 'my', 'only', 'friend', 'you', 'told', 'me', 'that', 'they', 'can', 'understand', 'the', 'man', 'i', 'am', 'they', 'can', 'understand', 'so', 'why', 'are', 'we', 'here', 'misunderstood', 'talkin', 'to', 'each', 'other', 'again', 'lookin', 'at', 'me', 'now', 'i', 'can', 'see', 'my', 'past', 'damn', 'i', 'look', 'just', 'like', 'my', 'fuckin', 'dad', 'light', 'it', 'up', 'thats', 'smoke', 'and', 'mirrors', 'i', 'even', 'look', 'good', 'in', 'the', 'broken', 'mirror', 'i', 'see', 'my', 'mama', 'smile', 'thats', 'a', 'blessin', 'i', 'see', 'the', 'change', 'i', 'see', 'the', 'message', 'and', 'no', 'message', 'coulda', 'been', 'any', 'clearer', 'so', 'im', 'startin', 'with', 'the', 'man', 'in', 'the', 'mirror', 'on', 'the', 'wall', 'mj', 'taught', 'me', 'that', 'here', 'we', 'are', 'again', 'through', 'my', 'rise', 'and', 'fall', 'uh', 'youve', 'been', 'my', 'only', 'friend', 'take', 'em', 'to', 'mars', 'man', 'you', 'told', 'me', 'that', 'they', 'can', 'understand', 'the', 'man', 'i', 'am', 'so', 'why', 'are', 'we', 'talkin', 'to', 'each', 'other', 'again', 'bridge', 'bruno', 'mars', 'uh', 'mirror', 'on', 'the', 'wall', 'mirror', 'mirror', 'on', 'the', 'wall', 'here', 'we', 'are', 'again', 'ooh', 'through', 'my', 'rise', 'and', 'fall', 'youve', 'been', 'my', 'only', 'friend', 'ooh', 'you', 'told', 'me', 'that', 'they', 'can', 'ooh', 'understand', 'the', 'man', 'i', 'am', 'understand', 'the', 'man', 'i', 'am', 'so', 'why', 'are', 'we', 'here', 'ooh', 'talkin', 'to', 'each', 'other', 'again', 'lookin', 'at', 'me', 'now', 'outro', 'bruno', 'mars', 'lil', 'wayne', 'mirror', 'on', 'the', 'wall', 'yeah', 'ooh', 'so', 'why', 'are', 'we', 'talkin', 'to', 'each', 'other', 'again', 'yeah', 'mirror']","['uh', 'everything', 'happenin', 'today', 'dont', 'know', 'whether', 'youre', 'comin', 'goin', 'think', 'youre', 'way', 'life', 'lined', 'mirror', 'dont', 'blow', 'woo', 'look', 'im', 'talkin', 'lookin', 'im', 'lookin', 'see', 'blood', 'eyes', 'see', 'love', 'disguise', 'see', 'pain', 'hidden', 'pride', 'see', 'youre', 'satisfied', 'dont', 'see', 'nobody', 'else', 'see', 'im', 'lookin', 'chorus', 'bruno', 'mars', 'mirror', 'wall', 'ooh', 'yeah', 'rise', 'fall', 'uh', 'youve', 'friend', 'yeah', 'told', 'understand', 'man', 'talkin', 'verse', 'lil', 'wayne', 'uh', 'see', 'truth', 'lies', 'see', 'nobody', 'side', 'im', 'youre', 'alone', 'correct', 'im', 'lookin', 'wrong', 'see', 'guilt', 'beneath', 'shame', 'see', 'soul', 'windowpane', 'see', 'scars', 'remain', 'see', 'wayne', 'im', 'lookin', 'mirror', 'wall', 'ooh', 'yeah', 'rise', 'fall', 'uhhuh', 'youve', 'friend', 'friend', 'told', 'understand', 'man', 'understand', 'misunderstood', 'talkin', 'lookin', 'see', 'past', 'damn', 'look', 'like', 'fuckin', 'dad', 'light', 'thats', 'smoke', 'mirrors', 'even', 'look', 'good', 'broken', 'mirror', 'see', 'mama', 'smile', 'thats', 'blessin', 'see', 'change', 'see', 'message', 'message', 'coulda', 'clearer', 'im', 'startin', 'man', 'mirror', 'wall', 'mj', 'taught', 'rise', 'fall', 'uh', 'youve', 'friend', 'take', 'em', 'mars', 'man', 'told', 'understand', 'man', 'talkin', 'bridge', 'bruno', 'mars', 'uh', 'mirror', 'wall', 'mirror', 'mirror', 'wall', 'ooh', 'rise', 'fall', 'youve', 'friend', 'ooh', 'told', 'ooh', 'understand', 'man', 'understand', 'man', 'ooh', 'talkin', 'lookin', 'outro', 'bruno', 'mars', 'lil', 'wayne', 'mirror', 'wall', 'yeah', 'ooh', 'talkin', 'yeah', 'mirror']"
+Nasty C,SMA,"
+(How did I?)
+End up falling for you
+I find myself calling for you
+Into the dark I followed you but
+I should've known this ain't the type of shit I'd go through
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+
+I feel you, I feel you
+I feel you, I feel you, ABC
+You take me up and down and I follow you like ABC
+You act like you in it but you were never here with me
+I wish it could be
+Wish it could be like ABC
+
+She ask me Junior do you like it when I cry?
+'Cause it gets you hard and you love it when I die inside
+I said I'm sorry though
+What the fuck you all doing all along? (Huh)
+Guess I've always been a dummy
+Bitch I dare you to lie to me and say you told him you love me
+And you know what I should've known you were hiding something
+You laughed at everything he said
+That nigga wasn't even funny
+You made me feel so insecure and weak as fuck
+But I'm not sending you away
+So you going to have to run from me
+'Cause I still love you
+
+End up falling for you
+I find myself calling for you
+Into the dark I followed you but
+I should've known this ain't the type of shit I'd go through
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+
+I feel you, I feel you
+I feel you, I feel you, ABC
+You take me up and down and I follow you like ABC
+You act like you in it but you were never here with me
+I wish it could be
+Wish it could be like ABC
+Verse 2 (Rowlene)
+So much for convincing me to be open
+I don't know why I bother with you
+When you've clearly chosen this music over me
+It owns all your emotions
+And you really have to give it your undivided devotion
+But somehow my heart feels safer when you hold it
+Like you not the one that broke it
+
+Yeah, look, I'm in Joburg working
+And you know I need money
+Instead of telling me you hurting
+Focus more on your studies
+I'm not ignoring you, trust me
+I'm always busy with something
+You call too late or too early
+I couldn't talk, I was grumpy
+You couldn't talk, you were grumpy
+Before these skanks came
+Before the plaques came
+Before you started getting money and your raps changed
+I was with you when you was still thinking about changing your rap name, nigga!
+Hook (Rowlene)
+End up falling for you
+I find myself calling for you
+Into the dark I followed you but
+I should've known this ain't the type of shit I'd go through
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+Send me away
+
+Whoa...
+I feel you, I feel you
+I feel you, I feel you, ABC
+You take me up and down and I follow you like ABC
+You act like you in it but you were never here with me
+I wish it could be
+Wish it could be like ABC
+",how did i end up falling for you i find myself calling for you into the dark i followed you but i shouldve known this aint the type of shit id go through send me away send me away send me away send me away send me away send me away i feel you i feel you i feel you i feel you abc you take me up and down and i follow you like abc you act like you in it but you were never here with me i wish it could be wish it could be like abc she ask me junior do you like it when i cry cause it gets you hard and you love it when i die inside i said im sorry though what the fuck you all doing all along huh guess ive always been a dummy bitch i dare you to lie to me and say you told him you love me and you know what i shouldve known you were hiding something you laughed at everything he said that nigga wasnt even funny you made me feel so insecure and weak as fuck but im not sending you away so you going to have to run from me cause i still love you end up falling for you i find myself calling for you into the dark i followed you but i shouldve known this aint the type of shit id go through send me away send me away send me away send me away send me away send me away i feel you i feel you i feel you i feel you abc you take me up and down and i follow you like abc you act like you in it but you were never here with me i wish it could be wish it could be like abc verse rowlene so much for convincing me to be open i dont know why i bother with you when youve clearly chosen this music over me it owns all your emotions and you really have to give it your undivided devotion but somehow my heart feels safer when you hold it like you not the one that broke it yeah look im in joburg working and you know i need money instead of telling me you hurting focus more on your studies im not ignoring you trust me im always busy with something you call too late or too early i couldnt talk i was grumpy you couldnt talk you were grumpy before these skanks came before the plaques came before you started getting money and your raps changed i was with you when you was still thinking about changing your rap name nigga hook rowlene end up falling for you i find myself calling for you into the dark i followed you but i shouldve known this aint the type of shit id go through send me away send me away send me away send me away send me away send me away whoa i feel you i feel you i feel you i feel you abc you take me up and down and i follow you like abc you act like you in it but you were never here with me i wish it could be wish it could be like abc,"['how', 'did', 'i', 'end', 'up', 'falling', 'for', 'you', 'i', 'find', 'myself', 'calling', 'for', 'you', 'into', 'the', 'dark', 'i', 'followed', 'you', 'but', 'i', 'shouldve', 'known', 'this', 'aint', 'the', 'type', 'of', 'shit', 'id', 'go', 'through', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'abc', 'you', 'take', 'me', 'up', 'and', 'down', 'and', 'i', 'follow', 'you', 'like', 'abc', 'you', 'act', 'like', 'you', 'in', 'it', 'but', 'you', 'were', 'never', 'here', 'with', 'me', 'i', 'wish', 'it', 'could', 'be', 'wish', 'it', 'could', 'be', 'like', 'abc', 'she', 'ask', 'me', 'junior', 'do', 'you', 'like', 'it', 'when', 'i', 'cry', 'cause', 'it', 'gets', 'you', 'hard', 'and', 'you', 'love', 'it', 'when', 'i', 'die', 'inside', 'i', 'said', 'im', 'sorry', 'though', 'what', 'the', 'fuck', 'you', 'all', 'doing', 'all', 'along', 'huh', 'guess', 'ive', 'always', 'been', 'a', 'dummy', 'bitch', 'i', 'dare', 'you', 'to', 'lie', 'to', 'me', 'and', 'say', 'you', 'told', 'him', 'you', 'love', 'me', 'and', 'you', 'know', 'what', 'i', 'shouldve', 'known', 'you', 'were', 'hiding', 'something', 'you', 'laughed', 'at', 'everything', 'he', 'said', 'that', 'nigga', 'wasnt', 'even', 'funny', 'you', 'made', 'me', 'feel', 'so', 'insecure', 'and', 'weak', 'as', 'fuck', 'but', 'im', 'not', 'sending', 'you', 'away', 'so', 'you', 'going', 'to', 'have', 'to', 'run', 'from', 'me', 'cause', 'i', 'still', 'love', 'you', 'end', 'up', 'falling', 'for', 'you', 'i', 'find', 'myself', 'calling', 'for', 'you', 'into', 'the', 'dark', 'i', 'followed', 'you', 'but', 'i', 'shouldve', 'known', 'this', 'aint', 'the', 'type', 'of', 'shit', 'id', 'go', 'through', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'abc', 'you', 'take', 'me', 'up', 'and', 'down', 'and', 'i', 'follow', 'you', 'like', 'abc', 'you', 'act', 'like', 'you', 'in', 'it', 'but', 'you', 'were', 'never', 'here', 'with', 'me', 'i', 'wish', 'it', 'could', 'be', 'wish', 'it', 'could', 'be', 'like', 'abc', 'verse', 'rowlene', 'so', 'much', 'for', 'convincing', 'me', 'to', 'be', 'open', 'i', 'dont', 'know', 'why', 'i', 'bother', 'with', 'you', 'when', 'youve', 'clearly', 'chosen', 'this', 'music', 'over', 'me', 'it', 'owns', 'all', 'your', 'emotions', 'and', 'you', 'really', 'have', 'to', 'give', 'it', 'your', 'undivided', 'devotion', 'but', 'somehow', 'my', 'heart', 'feels', 'safer', 'when', 'you', 'hold', 'it', 'like', 'you', 'not', 'the', 'one', 'that', 'broke', 'it', 'yeah', 'look', 'im', 'in', 'joburg', 'working', 'and', 'you', 'know', 'i', 'need', 'money', 'instead', 'of', 'telling', 'me', 'you', 'hurting', 'focus', 'more', 'on', 'your', 'studies', 'im', 'not', 'ignoring', 'you', 'trust', 'me', 'im', 'always', 'busy', 'with', 'something', 'you', 'call', 'too', 'late', 'or', 'too', 'early', 'i', 'couldnt', 'talk', 'i', 'was', 'grumpy', 'you', 'couldnt', 'talk', 'you', 'were', 'grumpy', 'before', 'these', 'skanks', 'came', 'before', 'the', 'plaques', 'came', 'before', 'you', 'started', 'getting', 'money', 'and', 'your', 'raps', 'changed', 'i', 'was', 'with', 'you', 'when', 'you', 'was', 'still', 'thinking', 'about', 'changing', 'your', 'rap', 'name', 'nigga', 'hook', 'rowlene', 'end', 'up', 'falling', 'for', 'you', 'i', 'find', 'myself', 'calling', 'for', 'you', 'into', 'the', 'dark', 'i', 'followed', 'you', 'but', 'i', 'shouldve', 'known', 'this', 'aint', 'the', 'type', 'of', 'shit', 'id', 'go', 'through', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'send', 'me', 'away', 'whoa', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'i', 'feel', 'you', 'abc', 'you', 'take', 'me', 'up', 'and', 'down', 'and', 'i', 'follow', 'you', 'like', 'abc', 'you', 'act', 'like', 'you', 'in', 'it', 'but', 'you', 'were', 'never', 'here', 'with', 'me', 'i', 'wish', 'it', 'could', 'be', 'wish', 'it', 'could', 'be', 'like', 'abc']","['end', 'falling', 'find', 'calling', 'dark', 'followed', 'shouldve', 'known', 'aint', 'type', 'shit', 'id', 'go', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'feel', 'feel', 'feel', 'feel', 'abc', 'take', 'follow', 'like', 'abc', 'act', 'like', 'never', 'wish', 'could', 'wish', 'could', 'like', 'abc', 'ask', 'junior', 'like', 'cry', 'cause', 'gets', 'hard', 'love', 'die', 'inside', 'said', 'im', 'sorry', 'though', 'fuck', 'along', 'huh', 'guess', 'ive', 'always', 'dummy', 'bitch', 'dare', 'lie', 'say', 'told', 'love', 'know', 'shouldve', 'known', 'hiding', 'something', 'laughed', 'everything', 'said', 'nigga', 'wasnt', 'even', 'funny', 'made', 'feel', 'insecure', 'weak', 'fuck', 'im', 'sending', 'away', 'going', 'run', 'cause', 'still', 'love', 'end', 'falling', 'find', 'calling', 'dark', 'followed', 'shouldve', 'known', 'aint', 'type', 'shit', 'id', 'go', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'feel', 'feel', 'feel', 'feel', 'abc', 'take', 'follow', 'like', 'abc', 'act', 'like', 'never', 'wish', 'could', 'wish', 'could', 'like', 'abc', 'verse', 'rowlene', 'much', 'convincing', 'open', 'dont', 'know', 'bother', 'youve', 'clearly', 'chosen', 'music', 'owns', 'emotions', 'really', 'give', 'undivided', 'devotion', 'somehow', 'heart', 'feels', 'safer', 'hold', 'like', 'one', 'broke', 'yeah', 'look', 'im', 'joburg', 'working', 'know', 'need', 'money', 'instead', 'telling', 'hurting', 'focus', 'studies', 'im', 'ignoring', 'trust', 'im', 'always', 'busy', 'something', 'call', 'late', 'early', 'couldnt', 'talk', 'grumpy', 'couldnt', 'talk', 'grumpy', 'skanks', 'came', 'plaques', 'came', 'started', 'getting', 'money', 'raps', 'changed', 'still', 'thinking', 'changing', 'rap', 'name', 'nigga', 'hook', 'rowlene', 'end', 'falling', 'find', 'calling', 'dark', 'followed', 'shouldve', 'known', 'aint', 'type', 'shit', 'id', 'go', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'send', 'away', 'whoa', 'feel', 'feel', 'feel', 'feel', 'abc', 'take', 'follow', 'like', 'abc', 'act', 'like', 'never', 'wish', 'could', 'wish', 'could', 'like', 'abc']"
